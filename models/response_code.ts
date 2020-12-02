@@ -1,0 +1,2 @@
+class response_code { 
+}

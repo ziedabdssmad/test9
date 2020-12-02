@@ -1,0 +1,2 @@
+class slot_status { 
+}
